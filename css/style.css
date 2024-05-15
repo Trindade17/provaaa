@@ -1,0 +1,90 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul
+{
+    list-style-type:none;
+}
+header
+{
+    width: 100%;
+    border: solid orange;
+}
+.menu
+{
+    background-color: rgb(255, 218, 151);
+    display: flex;
+    justify-content: center;   
+}
+.menu li
+{
+    font-size: 30px;
+    margin: 1rem;
+}
+.titulo
+{
+    width: 330px;
+}
+
+section
+{
+    max-width: 100%;
+
+}
+.sect1
+{
+    
+     background-image: url(../img/9273868-imagem-conceito-do-aquecimento-global-mostrando-os-efeitos-da-terra-seca-no-ambiente-em-mudanca-gratis-foto.jpg);
+     height: 80vh;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.sect2
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    border: solid black;
+}
+.tag1
+{
+    padding: 10px;
+    height: 200px;
+    width: 500px;
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid black;
+    margin: 1rem;
+}
+
+.tag2
+{ 
+    padding: 10px;
+    height: 200px;
+    width: 500px;
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid black;
+    margin: 1rem;
+}
+
+.tag3
+{
+    padding: 10px;
+    height: 200px;
+    width: 500px;
+    background-color: black;
+    color: aliceblue;
+    border: solid black;
+    margin: 1rem;
+}
+
